@@ -162,5 +162,3 @@ sentiment-microservice/
 ---
 
 **Demo Video**: https://drive.google.com/file/d/1JTO-mBcIOwzqIwaD-iOGns7QtHP6y293/view?usp=sharing
-
-**Live Demo**: [Deploy to Vercel/Railway and add link here]
